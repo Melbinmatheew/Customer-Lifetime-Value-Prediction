@@ -1,0 +1,27 @@
+**Customer Lifetime Value (CLTV) Prediction**
+
+Description: Predict the total revenue a customer is expected to generate throughout their relationship with a company. Features could include demographics, past purchase history, Browse behavior, engagement metrics, etc.
+
+Why ANN? CLTV is influenced by many factors, and the relationship is often non-linear. ANNs can help model these complex customer behaviors to provide better predictions.
+
+Dataset(s):
+UCI Machine Learning Repository: Online Retail Dataset: Contains transactional data for a UK-based online retail store. Requires significant feature engineering to derive CLTV-relevant features.
+Synthesized/Simulated E-commerce Data: For privacy reasons, real-world customer datasets are rarely public. You might need to generate synthetic data or work with internal company data if available.
+
+**UCI Machine Learning Repository: Online Retail Dataset**
+
+Description: This is a transactional dataset containing all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers are wholesalers.
+Features: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
+Why it's good for CLTV: It provides raw transaction data, which is essential for calculating RFM (Recency, Frequency, Monetary) features, which are fundamental to CLTV. You'll need to aggregate data by CustomerID to create these features.
+
+**Challenges/Considerations**:
+
+Feature Engineering: You'll need to derive features like:
+Recency: Days since last purchase.
+Frequency: Total number of purchases.
+Monetary: Total revenue generated.
+Customer Lifetime: Duration from first to last purchase.
+Average order value, number of unique products purchased, etc.
+Data Cleaning: Handle missing CustomerID values (often indicating guest purchases), negative quantities (returns/cancellations), and sometimes negative unit prices.
+Timeframe: The dataset covers about one year. While sufficient for initial CLTV models, longer transactional histories would generally lead to more robust long-term predictions.
+Access: Directly from the UCI Machine Learning Repository(https://archive.ics.uci.edu/dataset/352/online+retail) or often available on Kaggle (search "Online Retail Dataset").
