@@ -25,3 +25,6 @@ Average order value, number of unique products purchased, etc.
 Data Cleaning: Handle missing CustomerID values (often indicating guest purchases), negative quantities (returns/cancellations), and sometimes negative unit prices.
 Timeframe: The dataset covers about one year. While sufficient for initial CLTV models, longer transactional histories would generally lead to more robust long-term predictions.
 Access: Directly from the UCI Machine Learning Repository(https://archive.ics.uci.edu/dataset/352/online+retail) or often available on Kaggle (search "Online Retail Dataset").
+
+
+Customer_Lifetime_Value_Prediction : https://youtu.be/eHi875QuVcA?si=DDfyJsAd1snH9tlx
