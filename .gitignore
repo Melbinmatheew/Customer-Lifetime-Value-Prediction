@@ -9,6 +9,7 @@ wheels/
 
 *.zip
 *.xlsx
+*.lock
 
 # Virtual environments
 .venv
