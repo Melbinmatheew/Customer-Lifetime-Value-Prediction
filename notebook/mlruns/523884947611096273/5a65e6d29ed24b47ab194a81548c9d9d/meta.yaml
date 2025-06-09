@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/5a65e6d29ed24b47ab194a81548c9d9d/artifacts
+end_time: 1749451902551
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: 5a65e6d29ed24b47ab194a81548c9d9d
+run_name: dazzling-fish-345
+run_uuid: 5a65e6d29ed24b47ab194a81548c9d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451862391
+status: 4
+tags: []
+user_id: studio-lab-user

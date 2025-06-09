@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/fc1c939e82c14b35aa641d17e41c8f86/artifacts
+end_time: 1749452412515
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: fc1c939e82c14b35aa641d17e41c8f86
+run_name: unique-penguin-685
+run_uuid: fc1c939e82c14b35aa641d17e41c8f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749452374124
+status: 3
+tags: []
+user_id: studio-lab-user

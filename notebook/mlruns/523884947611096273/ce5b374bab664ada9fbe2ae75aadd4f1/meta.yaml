@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/ce5b374bab664ada9fbe2ae75aadd4f1/artifacts
+end_time: 1749452117770
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: ce5b374bab664ada9fbe2ae75aadd4f1
+run_name: grandiose-dog-177
+run_uuid: ce5b374bab664ada9fbe2ae75aadd4f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451971532
+status: 4
+tags: []
+user_id: studio-lab-user

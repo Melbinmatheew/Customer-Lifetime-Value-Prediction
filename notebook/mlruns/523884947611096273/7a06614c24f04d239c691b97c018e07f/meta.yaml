@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/7a06614c24f04d239c691b97c018e07f/artifacts
+end_time: 1749452420625
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: 7a06614c24f04d239c691b97c018e07f
+run_name: adventurous-elk-260
+run_uuid: 7a06614c24f04d239c691b97c018e07f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749452246769
+status: 3
+tags: []
+user_id: studio-lab-user

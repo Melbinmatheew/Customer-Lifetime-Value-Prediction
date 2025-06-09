@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/18ba55b1eb8340bdba56604d95b03726/artifacts
+end_time: 1749451302018
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: 18ba55b1eb8340bdba56604d95b03726
+run_name: unruly-ram-717
+run_uuid: 18ba55b1eb8340bdba56604d95b03726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451302000
+status: 4
+tags: []
+user_id: studio-lab-user

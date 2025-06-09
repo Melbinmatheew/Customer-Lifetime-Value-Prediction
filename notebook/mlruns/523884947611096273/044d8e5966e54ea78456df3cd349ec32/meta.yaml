@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/044d8e5966e54ea78456df3cd349ec32/artifacts
+end_time: 1749452106680
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: 044d8e5966e54ea78456df3cd349ec32
+run_name: spiffy-cat-138
+run_uuid: 044d8e5966e54ea78456df3cd349ec32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749452064588
+status: 3
+tags: []
+user_id: studio-lab-user
