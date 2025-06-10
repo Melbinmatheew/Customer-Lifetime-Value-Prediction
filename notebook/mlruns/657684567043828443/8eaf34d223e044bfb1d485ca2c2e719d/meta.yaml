@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/8eaf34d223e044bfb1d485ca2c2e719d/artifacts
+end_time: 1749549519953
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 8eaf34d223e044bfb1d485ca2c2e719d
+run_name: overjoyed-grouse-146
+run_uuid: 8eaf34d223e044bfb1d485ca2c2e719d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749549424695
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/3b7f929abe2c4f25bac544b1b265cca9/artifacts
+end_time: 1749548206307
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 3b7f929abe2c4f25bac544b1b265cca9
+run_name: orderly-stoat-625
+run_uuid: 3b7f929abe2c4f25bac544b1b265cca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749548083959
+status: 3
+tags: []
+user_id: studio-lab-user

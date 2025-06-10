@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/1950c5e6d81945cea514d616075952d4/artifacts
+end_time: 1749545819899
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 1950c5e6d81945cea514d616075952d4
+run_name: enthused-perch-390
+run_uuid: 1950c5e6d81945cea514d616075952d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749545521339
+status: 4
+tags: []
+user_id: studio-lab-user

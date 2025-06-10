@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/b541e6a08b234ababe50268e53656fb4/artifacts
+end_time: 1749547013063
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: b541e6a08b234ababe50268e53656fb4
+run_name: unruly-moth-740
+run_uuid: b541e6a08b234ababe50268e53656fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749546799689
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/498ec0fe803d48d4ba62844888369641/artifacts
+end_time: 1749549016861
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 498ec0fe803d48d4ba62844888369641
+run_name: exultant-hog-803
+run_uuid: 498ec0fe803d48d4ba62844888369641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749548206460
+status: 3
+tags: []
+user_id: studio-lab-user

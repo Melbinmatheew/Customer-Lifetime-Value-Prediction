@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/657684567043828443
+creation_time: 1749545521204
+experiment_id: '657684567043828443'
+last_update_time: 1749545521204
+lifecycle_stage: active
+name: customer-life-value-prediction

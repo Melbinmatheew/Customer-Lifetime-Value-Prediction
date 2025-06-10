@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/89e88b7eeba4405983b02f09ff80d207/artifacts
+end_time: 1749550084697
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 89e88b7eeba4405983b02f09ff80d207
+run_name: gaudy-grouse-35
+run_uuid: 89e88b7eeba4405983b02f09ff80d207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749549879090
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/82f7ef5a5937455ab988a70e315166ed/artifacts
+end_time: 1749550500425
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 82f7ef5a5937455ab988a70e315166ed
+run_name: carefree-dog-282
+run_uuid: 82f7ef5a5937455ab988a70e315166ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749550272971
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/eac8cb1a6b9c44068e830cebc30892ce/artifacts
+end_time: 1749546799457
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: eac8cb1a6b9c44068e830cebc30892ce
+run_name: redolent-crab-827
+run_uuid: eac8cb1a6b9c44068e830cebc30892ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749546481598
+status: 3
+tags: []
+user_id: studio-lab-user

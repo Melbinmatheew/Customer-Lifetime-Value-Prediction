@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/b35f37df585f450eaf2e63610fb3e180/artifacts
+end_time: 1749548083783
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: b35f37df585f450eaf2e63610fb3e180
+run_name: amusing-pug-245
+run_uuid: b35f37df585f450eaf2e63610fb3e180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749547386801
+status: 3
+tags: []
+user_id: studio-lab-user

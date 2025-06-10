@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/7b5113636dbf481fb9d3c1de880273a7/artifacts
+end_time: 1749549199286
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: 7b5113636dbf481fb9d3c1de880273a7
+run_name: bedecked-auk-804
+run_uuid: 7b5113636dbf481fb9d3c1de880273a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749549016983
+status: 3
+tags: []
+user_id: studio-lab-user

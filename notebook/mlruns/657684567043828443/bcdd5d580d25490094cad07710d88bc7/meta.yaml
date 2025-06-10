@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/657684567043828443/bcdd5d580d25490094cad07710d88bc7/artifacts
+end_time: 1749547386648
+entry_point_name: ''
+experiment_id: '657684567043828443'
+lifecycle_stage: active
+run_id: bcdd5d580d25490094cad07710d88bc7
+run_name: carefree-owl-226
+run_uuid: bcdd5d580d25490094cad07710d88bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749547075215
+status: 3
+tags: []
+user_id: studio-lab-user
