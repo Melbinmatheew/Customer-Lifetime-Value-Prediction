@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/Personal_project/Customer-Lifetime-Value-Prediction/notebook/mlruns/523884947611096273/30bf46290d6d43698a6854d970589f82/artifacts
+end_time: 1749533927309
+entry_point_name: ''
+experiment_id: '523884947611096273'
+lifecycle_stage: active
+run_id: 30bf46290d6d43698a6854d970589f82
+run_name: dazzling-grub-425
+run_uuid: 30bf46290d6d43698a6854d970589f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749533668698
+status: 4
+tags: []
+user_id: Planet
