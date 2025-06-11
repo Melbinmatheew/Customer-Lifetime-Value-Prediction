@@ -1,10 +1,10 @@
-# 🧠 Customer Lifetime Value (CLV) Prediction
+#  Customer Lifetime Value (CLV) Prediction
 
 This repository contains an end-to-end pipeline for predicting **Customer Lifetime Value (CLV)** using the [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail). The model leverages **Artificial Neural Networks (ANN)** for prediction and utilizes **MLflow** for robust experiment tracking and reproducibility.
 
 ---
 
-## 📊 Overview
+##  Overview
 
 **Customer Lifetime Value (CLV)** is a key business metric that estimates the total net profit attributed to the entire future relationship with a customer. Predicting CLV enables better:
 
@@ -17,7 +17,7 @@ This project includes data processing, modeling, training, evaluation, and exper
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The **Online Retail Dataset** is a real-world e-commerce transaction dataset that contains:
 
@@ -30,34 +30,34 @@ The **Online Retail Dataset** is a real-world e-commerce transaction dataset tha
 - **Quantity**: Quantity of items purchased
 - **UnitPrice**: Price per item
 
-📥 **Sources**:
+ **Sources**:
 - UCI: [https://archive.ics.uci.edu/dataset/352/online+retail](https://archive.ics.uci.edu/dataset/352/online+retail)
 - Kaggle: Search for "Online Retail Dataset"
 
 ---
 
-## 🧪 Problem Statement
+##  Problem Statement
 
 The goal is to predict the **monetary value of a customer's future purchases**, using historical data. We approach this as a **regression problem**, where the target is the total value a customer is expected to generate over a defined horizon.
 
 ---
 
-## 🧠 Modeling Approach
+##  Modeling Approach
 
-### 🔍 Feature Engineering
+###  Feature Engineering
 Key features engineered include:
 - Recency, Frequency, Monetary (RFM) metrics
 - Customer tenure
 - Purchase patterns
 - Time-based aggregations
 
-### 🧱 Model Architecture: Artificial Neural Network (ANN)
+###  Model Architecture: Artificial Neural Network (ANN)
 - Input layer aligned with number of engineered features
 - 2–3 hidden layers with ReLU activation
 - Output layer with linear activation for regression
 - Optimized with Adam, MSE loss function
 
-### 🧵 Training Pipeline
+###  Training Pipeline
 - Data preprocessing using `pandas` and `scikit-learn`
 - Train/validation split
 - Training monitored and logged with `MLflow`
@@ -65,7 +65,7 @@ Key features engineered include:
 
 ---
 
-## 🧰 Tools & Frameworks
+##  Tools & Frameworks
 
 | Tool       | Purpose                        |
 |------------|--------------------------------|
@@ -78,7 +78,7 @@ Key features engineered include:
 
 ---
 
-## 🔬 MLflow Tracking
+##  MLflow Tracking
 
 MLflow is used to:
 - Log metrics like loss, MAE, RMSE
@@ -91,7 +91,7 @@ Example:
 mlflow ui
 Access the MLflow dashboard at http://localhost:5000 to explore and compare experiments.
 
-📈 Results
+Results
 The ANN-based model demonstrated strong generalization capability, especially when fine-tuned with:
 
 Proper scaling and feature normalization
@@ -102,7 +102,7 @@ Dropout regularization to prevent overfitting
 
 
 
-📌 How to Run
+How to Run
 1. Clone the repository
 bash
 Copy
@@ -124,7 +124,7 @@ bash
 Copy
 Edit
 mlflow ui
-📚 References
+References
 UCI ML Repository: Online Retail Data Set
 
 Kaggle: Online Retail Dataset
@@ -133,7 +133,7 @@ MLflow Documentation
 
 CLV Theory - Harvard Business Review
 
-🧠 Future Improvements
+Future Improvements
 Integrate RFM-based customer segmentation prior to modeling
 
 Use sequence models (RNNs) for purchase pattern learning
