@@ -87,7 +87,7 @@ MLflow is used to:
 - Compare different model runs visually
 
 Example:
-```bash
+
 mlflow ui
 Access the MLflow dashboard at http://localhost:5000 to explore and compare experiments.
 
@@ -101,7 +101,7 @@ Balanced mini-batches during training
 Dropout regularization to prevent overfitting
 
 
-References
+## References
 UCI ML Repository: Online Retail Data Set
 
 Kaggle: Online Retail Dataset
@@ -110,7 +110,7 @@ MLflow Documentation
 
 CLV Theory - Harvard Business Review
 
-Future Improvements
+## Future Improvements
 Integrate RFM-based customer segmentation prior to modeling
 
 Use sequence models (RNNs) for purchase pattern learning
