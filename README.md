@@ -101,37 +101,6 @@ Balanced mini-batches during training
 Dropout regularization to prevent overfitting
 
 
-
-How to Run
-1. Clone the repository
-'''
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/clv-ann-mlflow.git
-cd clv-ann-mlflow
-'''
-2. Setup environment
-'''
-bash
-Copy
-Edit
-pip install -r requirements.txt
-'''
-3. Launch training
-'''
-bash
-Copy
-Edit
-python train.py
-'''
-4. Start MLflow UI
-'''
-bash
-Copy
-Edit
-mlflow ui
-'''
 References
 UCI ML Repository: Online Retail Data Set
 
